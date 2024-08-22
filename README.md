@@ -6,6 +6,6 @@
 
 // ENGLISH //
 - 👋 Hello, my name is VALILER
-- 👀 I am the creator of the WhiteRP project in the game Garry's Mod.
+- 👀 I'm the creator of the WhiteRP project in the game Garry's Mod.
 - 👀 I’m also learning the Lua programming language
 - 📄 I'm currently creating the Garry's Mod library
